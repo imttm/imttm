@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 [steam](https://steamcommunity.com/home)
 [id](https://steamcommunity.com/id/imttm)
-<a href="https://www.cnblogs.com/ccku/p/13529185.html" target="_blank">Markdown的超链接由新窗口打开</a>
+<a href="https://store.steampowered.com/" target="_blank">Markdown的超链接由新窗口打开</a>
 <!---
 imttm/imttm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
